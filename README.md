@@ -6,7 +6,7 @@ Repository for "Surgical Instrument Tracking: A Lightweight YOLO Approach Across
 [![Status: Accepted](https://img.shields.io/badge/Status-Accepted_at_ICCSA_2026-green.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-> **🎉 Update:** This paper has been **Accepted** as a Short Paper for the **International Conference on Computational Science and Its Applications (ICCSA 2026)**. We are currently finalizing the camera-ready version for final submission.
+> **🎉 Update:** This paper has been **Accepted** for presentation at the **International Conference on Computational Science and Its Applications (ICCSA 2026)** and for publication in the Springer LNCS Proceedings. We are currently finalizing the camera-ready version.
 
 ## 📌 Overview
 
