@@ -16,6 +16,6 @@ Using a **lightweight YOLOv11-s** architecture, the model achieved a mean Averag
 
 ## Dataset and Supplementary Results
 
-The complete unified dataset (images and YOLO labels) and the supplementary evaluation results (including PR curves and qualitative tracking figures) used in this research are publicly available on Zenodo: 
+The complete unified dataset, training metrics, results and zero-shot generalization results (including inference videos and qualitative analysis) used in this research are publicly available on Zenodo: 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20173477.svg)](https://doi.org/10.5281/zenodo.20173477)
